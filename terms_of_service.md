@@ -17,12 +17,12 @@ Users agree to use the Bot in accordance with all applicable laws and not for an
 Use of the Bot is also governed by our Privacy Policy, which outlines how user data is collected and managed. By using the Bot, you consent to the data practices described in our Privacy Policy.
 
 ## 5. Modifications
-We reserve the right to modify these Terms at any time. Any changes will be posted on [https://github.com/YourGitHubRepo]. Continued use of the Bot after changes constitute acceptance of the new terms.
+We reserve the right to modify these Terms at any time. Any changes will be posted on [https://github.com/xEliiox/SystemBot/edit/main/terms_of_service.md]. Continued use of the Bot after changes constitute acceptance of the new terms.
 
 ## 6. Limitation of Liability
 System and its developers are not liable for any direct, indirect, incidental, or consequential damages arising from the use of the Bot.
 
 ## 7. Contact Information
-For any questions about these Terms, please contact support@systembot.com.
+For any questions about these Terms, please contact for Discord .zLex_
 
 _Last updated: November 16, 2024_
