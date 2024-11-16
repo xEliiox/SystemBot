@@ -30,7 +30,7 @@ Depending on your location, you may have rights such as:
 - Withdrawing consent where applicable.
 
 ## 7. Updates to This Policy
-We may update this Privacy Policy periodically. Changes will be posted on [https://github.com/YourGitHubRepo].
+We may update this Privacy Policy periodically. Changes will be posted on [https://github.com/xEliiox/SystemBot/edit/main/privacy_policy.md].
 
 ## 8. Contact Us
 For any questions or concerns regarding this Privacy Policy, please contact support@systembot.com.
